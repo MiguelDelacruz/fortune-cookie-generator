@@ -1,0 +1,40 @@
+h1 {
+  margin-right:220px ;
+  margin-left:220px;
+  width: auto;
+  max-width: 835px;
+  margin-bottom: 15px;
+ }
+
+ #button {
+  margin-right:220px ;
+  margin-left:220px;
+  width: auto;
+  max-width: 835px;
+  margin-bottom: 15px;
+ }
+
+
+
+
+#fortune-cookie-text {
+	background-color: blue;
+	border: solid  0.5px #E2E2E2 ;
+  margin-right:220px ;
+  margin-left:220px ;
+  background-color: white;
+  width: auto;
+  max-width: 835px;
+  margin-bottom: 15px;
+}
+
+#previous-fortunes {
+	background-color: red;
+	border: solid  0.5px #E2E2E2 ;
+  margin-right:220px ;
+  margin-left:220px ;
+  background-color: white;
+  width: auto;
+  max-width: 835px;
+  margin-bottom: 15px;
+}
